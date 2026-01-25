@@ -1,11 +1,11 @@
 site_name: COMP3340 Tutorials
 repo_url: https://github.com/kaixuanwang2003/COMP3340-Tutorials
 repo_name: COMP3340-Tutorials
+site_url: https://kaixuanwang2003.github.io/COMP3340-Tutorials/
 theme:
   name: material
   logo: assets/mmlab.png
   icon:
     repo: fontawesome/brands/github
-
 extra_css:
   - stylesheets/extra.css
