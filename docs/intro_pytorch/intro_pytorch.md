@@ -44,6 +44,8 @@ Overall, PyTorch’s automatic differentiation capability, combined with its dyn
 
 ![pytorch-tensorflow](../assets/imgs/pytorch-tensorflow-divide-1024x868.png)
 
+> CR: Wu's [tutorial](https://ecwuuuuu.com/post/pytorch-tutorial/#article-info-card).
+
 ## How to use PyTorch
 
 ### Online Computation Resources
@@ -87,6 +89,5 @@ In the coming tutorials for RoboTwin, GPUs are required for simulation and train
 ## Recommended Videos to Watch
 
 [Deep Learning Series by 3Blue1Brown](https://youtu.be/aircAruvnKk?si=M3rg9BZsBor8UGz-)
-[Neural Networks: Zero to Hero by Andrej Karpathy](https://youtu.be/VMj-3S1tku0?si=EaXbe_iuF7LVM2LU), formerly Director of AI at Tesla and Research Scientist at OpenAI.
 
-> CR: Wu's [tutorial](https://ecwuuuuu.com/post/pytorch-tutorial/#article-info-card).
+[Neural Networks: Zero to Hero by Andrej Karpathy](https://youtu.be/VMj-3S1tku0?si=EaXbe_iuF7LVM2LU), formerly Director of AI at Tesla and Research Scientist at OpenAI.
