@@ -7,9 +7,5 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
-
 extra_css:
   - stylesheets/extra.css
