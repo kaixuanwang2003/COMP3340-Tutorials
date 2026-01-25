@@ -1,0 +1,7 @@
+site_name: My site
+theme:
+  name: material
+  logo: assets/mmlab.png
+
+extra_css:
+  - stylesheets/extra.css
