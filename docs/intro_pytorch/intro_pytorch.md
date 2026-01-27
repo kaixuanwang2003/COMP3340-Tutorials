@@ -84,7 +84,7 @@ In the coming tutorials for RoboTwin, GPUs are required for simulation and train
 
 ## Tensors and Operations
 
-> Let's open `Pytorch_tutorials.ipynb` to follow along. You can download it from moodle.
+> Let's open `tensor_operations.ipynb` to follow along. You can download it from moodle.
 
 ## Recommended Videos to Watch
 
