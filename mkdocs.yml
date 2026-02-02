@@ -9,3 +9,11 @@ theme:
     repo: fontawesome/brands/github
 extra_css:
   - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - Tutorial 1:
+    - Introduction to PyTorch: intro_pytorch/intro_pytorch.md
+    - Optional - Building Neural Networks with PyTorch: intro_pytorch/optional.md
+  - Tutorial 2:
+    - Introduction to RoboTwin: RoboTwin_1/intro_RoboTwin.md
+    - Documentations: RoboTwin_1/documentations.md
