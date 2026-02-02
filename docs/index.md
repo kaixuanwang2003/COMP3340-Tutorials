@@ -4,7 +4,7 @@ This is the official tutorial website for HKU COMP3340 26 Spring.
 
 I am Kaixuan Wang, a PhD student in [Prof. Ping Luo's group](https://mmlab.hk).
 
-You can reach me through **kaixuan[dot]wang[at]connect[dot]hku[dot]hk**, if you would like to ask some questions, or schedule a chat - for machine learning, starting your Embodied AI / computer vision research, or some suggestions for this course ..., All are welcome!
+You can reach me through **kaixuan[dot]wang[at]connect[dot]hku[dot]hk**, if you would like to ask some questions, or schedule a chat - for machine learning, starting your Embodied AI / computer vision research, or some suggestions for this course ..., All are welcome!co
 
 ## Tutorial Timetable
 
