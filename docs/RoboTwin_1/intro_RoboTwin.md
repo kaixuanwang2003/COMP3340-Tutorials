@@ -1,6 +1,6 @@
 # Introduction to RoboTwin & Your First MLP Policy to Control a Robot
 
-RoboTwin is a simulation platform developed by Meta AI that allows users to train and evaluate embodied AI agents in a variety of robotic tasks. It provides a realistic environment for simulating robot interactions, making it an excellent tool for research and development in robotics and AI.
+RoboTwin is a simulation platform developed that allows users to train and evaluate embodied AI agents in a variety of robotic tasks. It provides a realistic environment for simulating robot interactions, making it an excellent tool for research and development in robotics and AI.
 
 In this tutorial, we will guide you through the process of setting up RoboTwin and creating your first Multi-Layer Perceptron (MLP) policy to control a robot within the simulation. By the end of this tutorial, you will have a basic understanding of how to use RoboTwin and implement an MLP policy for robotic control.
 
