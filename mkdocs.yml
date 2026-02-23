@@ -17,3 +17,5 @@ nav:
   - Tutorial 2:
     - Introduction to RoboTwin: RoboTwin_1/intro_RoboTwin.md
     - Documentations: RoboTwin_1/documentations.md
+  - Tutorial 3:
+    - Action Chunking Transformers: ACT/intro_ACT.md
